@@ -1,3 +1,5 @@
 title: Your Site Name
 description: A brief description
 theme: minima
+plugins:
+  - jekyll-mermaid
